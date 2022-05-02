@@ -1,1 +1,1 @@
-# google-my-business
+# Google My Business updates or offers
